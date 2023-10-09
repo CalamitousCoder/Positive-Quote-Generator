@@ -1,6 +1,6 @@
 /********************************************************************************
- *@file BlackJack.java
- *@brief This program lets the user play a simplified version of BlackJack
+ *@file DailyEncouragement.java
+ *@brief This program lets the user get a daily source of positivity
  *@author Destiny Hale
  ********************************************************************************/
 import java.util.Random;
